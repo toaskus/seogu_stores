@@ -1,0 +1,8 @@
+[project]
+name = "seogu-stores-map"
+version = "0.1.0"
+description = "광주 서구 착한가게 지도 서비스"
+dependencies = [
+    "streamlit>=1.30.0",
+    "pandas>=2.0.0",
+]
